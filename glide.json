@@ -1,0 +1,13 @@
+[
+  {
+    "kind": "column",
+    "name": "Dark/Light Mode",
+    "description": "Return the display settings of the user's device, if it supports Media-Queries, else return Light",
+    "author": "Manu.n",
+    "params": [
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
